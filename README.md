@@ -1,6 +1,6 @@
 # Deploy To : https://place-holderproject.herokuapp.com/
 
-technology to use :
+#technology to use :
 
 ## React
 ## Redux
@@ -8,3 +8,5 @@ technology to use :
 ## Redux-thunk
 ## @material-ui
 ## Sass
+## react-scroll
+## and etc...
