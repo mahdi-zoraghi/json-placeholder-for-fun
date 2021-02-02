@@ -1,6 +1,6 @@
 # Deploy To : https://place-holderproject.herokuapp.com/
 
-#technology to use :
+# technology to use :
 
 ## React
 ## Redux
